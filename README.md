@@ -1,2 +1,14 @@
-# jetx-power-5x
-jetx-power-5x
+JETX POWER 5X
+Multiplicateurs
+10
+Derniers résultats
+Objectif 5x
+5x
+Fréquence observée
+Objectif 10x
+10x
+Fréquence observée
+Alertes
+Auto
+Signaux indicatifs
+
